@@ -28,7 +28,7 @@ body {background-color: black;}
 
 .ryu-still { background-image: url("../images/ryu-standing-still.png");}
 
-.ryu-throwing { background-image: url("../images/ryu-throwing-hadouken.gif");}
+.ryu-throwing { background-image: url("../images/ryu-throwing-hadouken.png");}
 
 .ryu-still, .ryu-ready , .ryu-throwing, .hadouken { background-repeat: no-repeat;}
 
